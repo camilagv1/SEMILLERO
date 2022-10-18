@@ -1,0 +1,21 @@
+/* Estilos para el aplicativo */
+html,body{
+    padding:0;
+    margin: 0;
+}
+
+body{
+    background:#272343;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* Estilos para el contenedor principal */
+#quiz{
+    background: #e3f6f5;
+    width: 30rem;
+    padding: 4rem;
+    text-align: center;
+}
